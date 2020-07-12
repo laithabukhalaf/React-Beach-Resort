@@ -1,6 +1,6 @@
 import React from 'react';
 import Room from './Room';
-import { RoomConsumer } from '../Context';
+// import { RoomConsumer } from '../Context';
 
 
 function RoomList({ rooms }) {

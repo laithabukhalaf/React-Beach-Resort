@@ -13,7 +13,7 @@ class RoomProvider extends Component {
         featuredRooms: [],
         loading: true,
 
-        type: 'all',
+        type: 'all', 
         capacity: 1,
         price: 0,
         minPrice: 0,
